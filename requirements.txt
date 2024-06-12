@@ -1,3 +1,3 @@
-google.generativeai as genai
-streamlit as st
+google.generativeai
+streamlit
 os
