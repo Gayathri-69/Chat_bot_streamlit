@@ -3,7 +3,7 @@
 import os
 import google.generativeai as genai
 import streamlit as st
-api_key='AIzaSyCcz5ZBpMBhX6fMFne7N1mDbB1ehKtqfV8'
+api_key='AIzaSyAbMNZpP1Gz24bvOQ1UYmR3RVeVHR1RXbA'
 genai.configure(api_key=api_key)
 # for m in genai.list_models():
 #   if 'generateContent' in m.supported_generation_methods:
